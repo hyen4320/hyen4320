@@ -4,31 +4,31 @@
   <tr>
     <td align="center">
       <img src="./렘.gif" width="180"/><br/>
-      <sub style="color:#6A5ACD;">Re:Zero</sub>
+      <font color="#6A5ACD"><sub>Re:Zero</sub></font>
     </td>
     <td align="center">
       <img src="./청춘돼지.jpg" width="180"/><br/>
-      <sub style="color:#8B4513;">청춘돼지는 바니걸 선배의 꿈을 꾸지 않는다</sub>
+      <font color="#8B4513"><sub>청춘돼지는 바니걸 선배의 꿈을 꾸지 않는다</sub></font>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./나태6.jpg" width="180"/><br/>
-      <sub style="color:#556B2F;">아나타 나태하군요</sub>
+      <font color="#556B2F"><sub>아나타 나태하군요</sub></font>
     </td>
     <td align="center">
       <img src="./다운로드 (3).jpg" width="180"/><br/>
-      <sub style="color:#2F4F4F;">5둥분</sub>
+      <font color="#2F4F4F"><sub>5둥분</sub></font>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="./만화 그림 (1).jpg" width="180"/><br/>
-      <sub style="color:#696969;">Re:Zero</sub>
+      <font color="#696969"><sub>Re:Zero</sub></font>
     </td>
     <td align="center">
       <img src="./에이티식스.jpg" width="180"/><br/>
-      <sub style="color:#B22222;">86 ― Eighty Six</sub>
+      <font color="#B22222"><sub>86 ― Eighty Six</sub></font>
     </td>
   </tr>
 </table>
