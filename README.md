@@ -34,7 +34,3 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <font color="#FF00FF">⚠️ 시청 주의: 감정 과부하 발생 ⚠️</font>
-</p>
