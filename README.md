@@ -2,8 +2,8 @@
 
 <table align="center" cellspacing="0">
   <tr>
-    <td bgcolor="#2B1B5A" height="14"></td>
-    <td bgcolor="#FFD1DC" height="14"></td>
+    <td bgcolor="#2B1B5A" height="14">&nbsp;</td>
+    <td bgcolor="#FFD1DC" height="14">&nbsp;</td>
   </tr>
   <tr>
     <td align="center" bgcolor="#2B1B5A">
@@ -16,13 +16,13 @@
     </td>
   </tr>
   <tr>
-    <td bgcolor="#2B1B5A" height="14"></td>
-    <td bgcolor="#FFD1DC" height="14"></td>
+    <td bgcolor="#2B1B5A" height="14">&nbsp;</td>
+    <td bgcolor="#FFD1DC" height="14">&nbsp;</td>
   </tr>
 
   <tr>
-    <td bgcolor="#1E3D2F" height="14"></td>
-    <td bgcolor="#001F3F" height="14"></td>
+    <td bgcolor="#1E3D2F" height="14">&nbsp;</td>
+    <td bgcolor="#001F3F" height="14">&nbsp;</td>
   </tr>
   <tr>
     <td align="center" bgcolor="#1E3D2F">
@@ -35,13 +35,13 @@
     </td>
   </tr>
   <tr>
-    <td bgcolor="#1E3D2F" height="14"></td>
-    <td bgcolor="#001F3F" height="14"></td>
+    <td bgcolor="#1E3D2F" height="14">&nbsp;</td>
+    <td bgcolor="#001F3F" height="14">&nbsp;</td>
   </tr>
 
   <tr>
-    <td bgcolor="#3A3A3A" height="14"></td>
-    <td bgcolor="#3B0000" height="14"></td>
+    <td bgcolor="#3A3A3A" height="14">&nbsp;</td>
+    <td bgcolor="#3B0000" height="14">&nbsp;</td>
   </tr>
   <tr>
     <td align="center" bgcolor="#3A3A3A">
@@ -54,7 +54,7 @@
     </td>
   </tr>
   <tr>
-    <td bgcolor="#3A3A3A" height="14"></td>
-    <td bgcolor="#3B0000" height="14"></td>
+    <td bgcolor="#3A3A3A" height="14">&nbsp;</td>
+    <td bgcolor="#3B0000" height="14">&nbsp;</td>
   </tr>
 </table>
