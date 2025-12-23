@@ -1,17 +1,33 @@
 ## 🎬 인생 애니 목록
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
+
+<p align="center">
+  <b>📢 애니메이션의 효능 (※ 개인차 있음, 과학적 근거 없음)</b>
+</p>
+
+<p align="center">
   <sub>
-    <b>애니메이션의 효능</b> <br/>
-    ─ 현실에서 도피가 가능하다.<br/>
-    ─ 연애가 가능해진다.<br/>
-    ─ 머리가 자라난다.<br/>
-    ─ 키가 커진다.<br/>
-    ─ 학점이 올라가고 코딩실력이 향상된다.<br/>
-    ─ 주변에 친구가 많아진다.<br/>
+    <b>현실 탈출 능력</b>이 일시적으로 개방됩니다<br/>
+    <b>연애 이벤트</b>가 낮은 확률로 발생합니다<br/>
+    <b>두피 세포</b>가 애니 자극에 반응하여 성장합니다<br/>
+    <b>자기 인식 키</b>가 평균 3~5cm 상승합니다<br/>
+    <b>학점 상승 버프</b>와 함께 코딩 이해도가 증가합니다<br/>
+    <b>주변 NPC</b>가 친구로 전환될 가능성이 높아집니다
   </sub>
 </p>
 
+<p align="center">
+  <i>
+    ※ 본 효능은 심야 시청, 이어폰 착용, 불 끄기 환경에서 극대화됩니다
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
+</p>
 <table align="center" cellspacing="0">
   <tr>
     <td align="center">
