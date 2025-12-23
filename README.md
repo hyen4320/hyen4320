@@ -1,4 +1,4 @@
-## 🎬 인생 애니 목록 💥✨
+## 🎬 인생 애니 목록
 
 <table align="center" cellspacing="12">
   <tr>
